@@ -1,0 +1,20 @@
+gimnasio_iron_gym:
+  estudiante: "Nombre Apellido"
+  cinco_porques:
+    - porque_1: "Aglomeracion en zona de pesas y filas en la entrada"
+    - porque_2: "Validacion manual en puerta buscando nombres en Excel"
+    - porque_3: "No hay comunicacion de datos entre caja y control de ingreso"
+    - causa_raiz: "Ausencia de un sistema centralizado de control de acceso e identificacion rapida"
+  problem_statement:
+    problema_de: "Lentitud en la validacion de acceso e incapacidad para monitorear el aforo"
+    afecta_a: "Socios y recepcionistas"
+    impacto: "Cancelacion de membresias y cuellos de botella en la entrada"
+    solucion: "Sistema de control de acceso rapido con monitor de aforo"
+  objetivo_medible: "Reducir tiempo de ingreso a 5 segundos y mantener aforo por debajo del 85% en 2 meses"
+  alcance:
+    in_scope:
+      - "Modulo de generacion y escaneo de codigos QR para socios"
+      - "Panel en recepcion para visualizacion en tiempo real del aforo"
+    out_of_scope:
+      - "Aplicacion movil para reserva previa de turnos de entrenamiento"
+      - "Modulo para creacion automatizada de rutinas de ejercicio"
