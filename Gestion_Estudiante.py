@@ -80,6 +80,3 @@ for i in range(len(notas)):
     #RODRIGO PEPE
 print("Hiii")    
 
-asdsadsadasdsadsad
-dsadasd
-asdasd
