@@ -77,4 +77,5 @@ for i in range(len(notas)):
     print("notas desaprobadas:", desaprobadas)
     print("Estado:", estado)
     
+    #RODRIGO PEPE
     
